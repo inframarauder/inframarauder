@@ -2,7 +2,7 @@
 
 - 💼  I'm currently looking for job/internship opportunities in full stack/backend development.
 - 🔭  I’m currently working on a project (MERN Stack)
-- 🌱  I’m currently learning Python🐍, FastAPI, Data Science.
+- 🌱  I’m currently learning Python🐍.
 - 👯  I’m looking to collaborate on projects made with JS & Python 🐍.
 - 💬  Ask me about anything in JS,REST APIs,Databases (NoSQL & SQL),Cloud ☁️,DevOps.
 - 📫  How to reach me: https://subhasis.tech
