@@ -1,6 +1,6 @@
-### Hey there! 🙋‍♂️
-![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fgeram_er_chhele) 
+### Hey there 🙋‍♂️ I'm Subhasis
 
+- 💼  I'm currently looking for job/internship opportunities in full stack/backend development.
 - 🔭  I’m currently working on a project (MERN Stack)
 - 🌱  I’m currently learning Python🐍, FastAPI, Data Science.
 - 👯  I’m looking to collaborate on projects made with JS & Python 🐍.
