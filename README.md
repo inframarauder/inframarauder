@@ -1,6 +1,6 @@
 ### Hey there 🙋‍♂️ I'm Subhasis
 
-- 💼  I'm currently looking for job/internship opportunities in full stack/backend development.
+- 💼  I'm currently an SDE Intern at The Close Company (https://closecheckout.com/).
 - 🔭  I’m currently working on a project (MERN Stack)
 - 🌱  I’m currently learning Python🐍.
 - 👯  I’m looking to collaborate on projects made with JS & Python 🐍.
