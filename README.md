@@ -1,10 +1,9 @@
 ### Hey there 🙋‍♂️ I'm Subhasis
 
-- 💼  I'm currently restructuring and making improvements on the code bases of a few old projects.
-- 🔭  I’m currently working on a project (MERN Stack)
-- 🌱  I’m currently learning Python🐍.
+- 💼  I'm a CSE Undergrad from Heritage Institute of Technology, placed at TCS Digital as a Systems Engineer.
+- 🌱  I’m currently learning Typescript and Angular.
 - 👯  I’m looking to collaborate on projects made with JS & Python 🐍.
-- 💬  Ask me about anything in JS,REST APIs,Databases (NoSQL & SQL),Cloud ☁️,DevOps.
+- 💬  Ask me about anything in JS,REST APIs,Databases (NoSQL & SQL),Cloud ☁️ & DevOps (AWS).
 - 📫  How to reach me: https://subhasis.tech
 - 😄  Pronouns: He/Him 🙍🏻‍♂️
 - ⚡ Fun fact: I make memes to vent out my frustration after hours of debugging!
