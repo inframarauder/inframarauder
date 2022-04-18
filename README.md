@@ -1,10 +1,17 @@
-### Hey there 🙋‍♂️ I'm Subhasis
+## Hi there, I'm Subhasis 👋
 
-- 💼  I'm a DevOps Engineer at Tata Consultancy Services (TCS).
-- 🎓  I'm a Computer Science and Engineering graduate (Batch of 2021).
-- 💼  I'm open to job opportunities at product based companies for DevOps/Backend/Fullstack roles.
-- 🌱  I’m currently learning web3.0 using Ethereum and Solidity.
-- 👯  I’m looking to collaborate on web,cloud and devops projects.
-- 💬  Ask me about anything in JS,REST APIs,Databases (NoSQL & SQL),Cloud ☁️ & DevOps (AWS,Terraform,Docker,Kubernetes).
-- 📫  How to reach me: https://subhasis.vercel.app
-- 😄  Pronouns: He/Him 🙍🏻‍♂️
+### I'm a Devops Engineer, Fullstack Developer and a Web3.0 enthusiast.
+- 🔭 I’m currently working full-time as a DevOps Engineer at Tata Consultancy Services(TCS)
+- 🔭 I freelance as a technical content writer.
+- 🌱 I’m currently learning more about Kubernetes and exploring Web3.0.
+- 👯 I’m looking to collaborate on projects based on  full-stack dev(MERN)/DevOps.
+- ⚡ Fun fact : I switch between windows and mac machines many times throughout the day.
+
+### Connect with me:
+[https://subhasis.vercel.app][Website]
+[https://linkedin.com/in/subhasis020299][LinkedIn]
+[https://twitter.com/geram_er_chhele][Twitter]
+
+<br />
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subhasis020299&show_icons=true&hide_border=true" />
