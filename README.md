@@ -8,9 +8,9 @@
 - ⚡ Fun fact : I switch between windows and mac machines many times throughout the day.
 
 ### Connect with me:
-[https://subhasis.vercel.app] Website
-[https://linkedin.com/in/subhasis020299] LinkedIn
-[https://twitter.com/geram_er_chhele] Twitter
+[Website](https://subhasis.vercel.app)
+[LinkedIn](https://linkedin.com/in/subhasis020299)
+[Twitter](https://twitter.com/geram_er_chhele)
 
 <br />
 
