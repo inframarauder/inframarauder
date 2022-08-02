@@ -1,7 +1,7 @@
 ## Hi there, I'm Subhasis 👋
 
 ### I'm a Devops Engineer, Fullstack Developer and a Web3.0 enthusiast.
-- 🔭 I’m currently working full-time as a DevOps Engineer at Tata Consultancy Services(TCS)
+- 🔭 I’m currently working full-time as a DevOps Engineer at InVideo
 - 🔭 I freelance as a technical content writer.
 - 🌱 I’m currently learning more about Kubernetes and exploring Web3.0.
 - 👯 I’m looking to collaborate on projects based on  full-stack dev(MERN)/DevOps.
