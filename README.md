@@ -3,7 +3,6 @@
 ### I'm a Devops Engineer, Fullstack Developer and a Web3.0 enthusiast.
 - 🔭 I’m currently working full-time as a DevOps Engineer at Compile
 - 🌱 I’m currently learning more about Kubernetes and exploring Web3.0.
-- ⚡ Fun fact : I switch between windows and mac machines many times throughout the day.
 
 ### Connect with me:
 [Website](https://subhasis.vercel.app)
