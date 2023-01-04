@@ -2,7 +2,7 @@
 
 ### I'm a Devops Engineer, Fullstack Developer and a Web3.0 enthusiast.
 - I’m currently working full-time as a DevOps Engineer @CompileInc.
-- I’m passionate about cloud and platform engineering, web technologies and blockchain.
+- I’m passionate about web, cloud and platform engineering.
 
 ### Connect with me:
 [Website](https://subhasis.vercel.app)
