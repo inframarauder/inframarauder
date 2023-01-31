@@ -1,13 +1,20 @@
-## Hi there, I'm Subhasis 👋
+Hi 👋 I'm Subhasis
+===================
 
-### I'm a Devops Engineer, Fullstack Developer and a Web3.0 enthusiast.
-- I’m currently working full-time as a DevOps Engineer @CompileInc.
-- I’m passionate about web, cloud and platform engineering.
+<p align="center">
+ <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="center" />
+</p>
 
-### Connect with me:
-[Website](https://subhasis.vercel.app)
-[LinkedIn](https://linkedin.com/in/subhasis020299)
-[Twitter](https://twitter.com/geram_er_chhele)
+<h3>Cloud, DevOps and Platform Engineer</h3>
+
+* 🌍 I'm from India
+* 👜 I’m currently working full-time as a DevOps Engineer @CompileInc
+* 💙 I’m passionate about web, cloud and platform engineering
+* 🕸️ I'm also experienced in full-stack development using the MERN stack
+* 🤝 I'm open to collaborating on interesting projects
+
+### Socials
+<a href="https://www.linkedin.com/in/subhasis020299/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/subhasis020299" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 <br />
 
