@@ -5,11 +5,12 @@ Hi 👋 I'm Subhasis
  <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="center" />
 </p>
 
-<h3>Cloud, DevOps and Platform Engineer</h3>
+<h3>DevOps, SRE and Platform Engineer</h3>
 
 * 🌍 I'm from India
 * 👜 I’m currently working full-time as a DevOps Engineer @CompileInc
-* 💙 I’m passionate about web, cloud and platform engineering
+* 💙 I’m passionate about cloud, infrastructure and platform engineering
+* 🧠 I've dabbled with Web3 and Gen AI tools
 * 🕸️ I'm also experienced in full-stack development using the MERN stack
 * 🤝 I'm open to collaborating on interesting projects
 
