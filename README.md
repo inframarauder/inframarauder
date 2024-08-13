@@ -8,9 +8,9 @@ Hi 👋 I'm Subhasis
 <h3>DevOps, SRE and Platform Engineer</h3>
 
 * 🌍 I'm from India
-* 👜 I’m currently working full-time as a DevOps Engineer @fivehealth
+* 👜 I’m currently working full-time as a DevOps Engineer at Bot MD (5 Health Inc.)
 * 💙 I’m passionate about cloud, infrastructure and platform engineering
-* 🧠 I've dabbled with Web3 and Gen AI tools
+* 🧠 I'm currently exploring the  Gen AI space.
 * 🕸️ I'm also experienced in full-stack development using the MERN stack
 * 🤝 I'm open to collaborating on interesting projects
 
