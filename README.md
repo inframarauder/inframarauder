@@ -8,7 +8,7 @@ Hi 👋 I'm Subhasis
 <h3>DevOps, SRE and Platform Engineer</h3>
 
 * 🌍 I'm from India
-* 👜 I’m currently working full-time as a DevOps Engineer @CompileInc
+* 👜 I’m currently working full-time as a DevOps Engineer @fivehealth
 * 💙 I’m passionate about cloud, infrastructure and platform engineering
 * 🧠 I've dabbled with Web3 and Gen AI tools
 * 🕸️ I'm also experienced in full-stack development using the MERN stack
