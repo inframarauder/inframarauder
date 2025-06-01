@@ -8,11 +8,11 @@ Hi 👋 I'm Subhasis
 <h3>DevOps, SRE and Platform Engineer</h3>
 
 * 🌍 I'm from India
-* 👜 I’m currently working full-time as a DevOps Engineer at Bot MD (5 Health Inc.)
 * 💙 I’m passionate about cloud, infrastructure and platform engineering
 * 🧠 I'm currently exploring the  Gen AI space.
 * 🕸️ I'm also experienced in full-stack development using the MERN stack
 * 🤝 I'm open to collaborating on interesting projects
+* 💻 I'm looking for jobs. Open to Devops, SRE, Platform Engineer and Cloud Engineer roles.
 
 ### Socials
 <a href="https://www.linkedin.com/in/inframarauder/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/inframarauder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" background-color="#fff" /></a>
