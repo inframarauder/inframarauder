@@ -29,14 +29,11 @@
   - DevOps, Cloud Engineering, Platform Engineering roles  
   - Collaborating & hacking on fun projects together
 
-<p align="center">
-  <img src="https://github.com/inframarauder/inframarauder/raw/output/github-metrics.svg" alt="Metrics" width="80%">
-</p>
 
 <p align="center">
   <a href="mailto:subhasisdas125@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/inframarauder/">LinkedIn</a> •
-  <a href="https://github.com/inframarauder?tab=repositories">Projects</a> •
+  <a href="https://github.com/inframarauder?tab=repositories">GitHub</a> •
   <a href="https://twitter.com/inframarauder">Twitter</a>
 </p>
 
