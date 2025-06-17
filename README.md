@@ -1,22 +1,43 @@
-Hi 👋 I'm Subhasis
-===================
+<!--
+  Minimalist GitHub Profile README for inframarauder
+-->
+
+<h1 align="center">👋 Hi, I'm Subhasis</h1>
 
 <p align="center">
- <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="center" />
+  <b>Software Engineer | Cloud Platforms | DevOps | Backend | AI</b>
 </p>
 
-<h3>DevOps, SRE and Platform Engineer</h3>
+---
 
-* 🌍 I'm from India
-* 💙 I’m passionate about cloud, infrastructure and platform engineering
-* 🧠 I'm currently exploring the  Gen AI space.
-* 🕸️ I'm also experienced in full-stack development using the MERN stack
-* 🤝 I'm open to collaborating on interesting projects
-* 💻 I'm looking for jobs. Open to Devops, SRE, Platform Engineer and Cloud Engineer roles.
+### 🚀 About Me
 
-### Socials
-<a href="https://www.linkedin.com/in/inframarauder/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/inframarauder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" background-color="#fff" /></a>
+- 🛠️ **Specialist in building robust, scalable, and secure cloud platforms**
+- 💡 Experienced in **DevOps, Cloud, Backend, and Fullstack** development
+- 🧰 **Core skills:**  
+  <code>AWS</code> &nbsp; <code>Terraform</code> &nbsp; <code>Kubernetes</code> &nbsp; <code>Docker</code>  
+  <code>Python</code> &nbsp; <code>Node.js</code> &nbsp; <code>React</code> &nbsp; <code>MongoDB</code>
+- 💻 Also worked with: `C`, `C++`, `Java`, `TypeScript`
+- 🤖 Currently exploring **AI tools & frameworks** and building fun side projects!
+- 🦾 Eager to learn: **Go**, **Rust**, and the math behind AI algorithms
 
-<br />
+---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=inframarauder&show_icons=true&hide_border=true" />
+### 🌱 Let's Connect!
+
+- 📬 **Open to:**  
+  - DevOps, Cloud Engineering, Platform Engineering roles  
+  - Collaborating & hacking on fun projects together
+
+<p align="center">
+  <img src="https://github.com/inframarauder/inframarauder/raw/output/github-metrics.svg" alt="Metrics" width="80%">
+</p>
+
+<p align="center">
+  <a href="mailto:subhasisdas125@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/inframarauder/">LinkedIn</a> •
+  <a href="https://github.com/inframarauder?tab=repositories">Projects</a> •
+  <a href="https://twitter.com/inframarauder">Twitter</a>
+</p>
+
+---
