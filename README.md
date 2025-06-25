@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Subhasis</h1>
 
 <p align="center">
-  <b>Software Engineer | Cloud Platforms | DevOps | Backend | AI</b>
+  <b>Software Engineer - Cloud Platforms | DevOps | Backend | AI</b>
 </p>
 
 ---
