@@ -5,13 +5,12 @@
 <h1 align="center">👋 Hi, I'm Subhasis</h1>
 
 <p align="center">
-  <b>Software Engineer - Cloud Platforms | DevOps | Backend | AI</b>
+  <b>Software Engineer - Cloud & Infrastructure | Backend | AI</b>
 </p>
 
 ---
 
 ### 🚀 About Me
-
 - 🛠️ **Specialist in building robust, scalable, and secure cloud platforms**
 - 💡 Experienced in **DevOps, Cloud, Backend, and Fullstack** development
 - 🧰 **Core skills:**  
@@ -26,7 +25,6 @@
 ### 🌱 Let's Connect!
 
 - 📬 **Open to:**  
-  - DevOps, Cloud Engineering, Platform Engineering roles  
   - Collaborating & hacking on fun projects together
 
 
